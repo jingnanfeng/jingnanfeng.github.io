@@ -1,12 +1,12 @@
 # Basic
-title: 宋德凌
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 南风不竞
+subtitle: 个人博客
+description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: songdeling
+avatarTitle: nanfeng
 # 头像里面的描述
 avatarDesc: Java / 微服务
-url: "http://CoderOfSong.github.io"
+url: "http://jingnanfeng.github.io"
 
 # Comment
 comment:
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 6288210001 
-    github: http://CoderOfSong.github.io
+    #weibo: 6288210001 
+    github: http://jingnanfeng.github.io
     # twitter: 
-    mail: ling.d.s@foxmail.com
+    mail: liu05265218@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 这个地方我写死了,要更改请去head.html更改相应的js
