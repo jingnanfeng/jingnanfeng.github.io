@@ -5,7 +5,8 @@ layout: page
 title: 一个有趣的程序员          
 ---
 
-<h2><p align = "right">君子处事，贵在执着而不沉溺</p>
+<h2><p align = "right">君子处事，贵在执着而不沉溺
+<p>
 
 
 一个有灵魂的程序员，喜欢学习一些新技术。
@@ -33,8 +34,6 @@ title: 一个有趣的程序员
 
 
 <h3> 友情链接 </h3>
-
-
 <ul>
 <li><a target="_blank" href="https://coderofsong.github.io/">宋德凌的个人博客</a></li>
 </ul>
@@ -45,7 +44,6 @@ title: 一个有趣的程序员
 
 
 <h3> 来玩小游戏 </h3>
-
 <ul>
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/2048/index.html">2048</a></li>
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/RetroSnaker/tanchishe.html">贪吃蛇</a></li>
