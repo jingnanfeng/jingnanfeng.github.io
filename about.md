@@ -1,75 +1,71 @@
-﻿---
-
+---
 layout: page
-
-# 一个有趣的程序员          
+title: 关于我 
 ---
 
-<h2><p align = "right"> 君子处事，贵在执着而不沉溺 <p></h2>
+一个 Java 开发者，喜欢研究一些新技术。
+<p>
+平时喜欢整理个人博客，逛逛技术论坛，喜欢安安静静的宅着，一个又无聊又有趣的人。
+<p>
+喜欢了解研究一些`SOA架构`，`微服务架构`，和 `大数据`方向的知识
 
-
-一个有灵魂的程序员，喜欢学习一些新技术。
 <p>
 
-平常看一些技术相关的书来丰富自己，始终相信持续的学习是通往成功的唯一大门。
+<h3> 我的博客 </h3>  
+
 <p>
 
-喜欢研究一些`Java`，`微服务架构`，和 `人工智能`相关的知识。
+这个博客是我在
+<a href="http://baixin.io/#blog"> 潘柏信个人博客 </a>基础上加上好友<a href="http://zhanghao.io">张浩</a>苦苦指导下才"艰难"完成。总之在这个炎热的七月初，我的个人站也算是上线了=.=。
+
 <p>
 
-对源码和原理有着异常的执着，认为它们才是我正在掌握一门技术的根本。
-<p>
+如果你想搭建一个跟我一样的博客，可以参考潘柏信的 
+<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 
 
-## 我的博客 
 <p>
 
 有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/jingnanfeng/jingnanfeng.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <p> 
 
+博客源码在 <a target="_blank" href='https://github.com/CoderOfSong/CoderOFSong.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
-## 友情链接
+<p> 
 
+<h3> 友情链接 </h3>
 
 <ul>
-<li><a target="_blank" href="https://coderofsong.github.io/">宋德凌的个人博客</a></li>
+<li><a target="_blank" href="http://zhanghao.io/">张浩的个人博客</a></li>
+<li><a target="_blank" href="http://www.688r.cn/">佟杰的个人博客</a></li>
+<li><a target="_blank" href="http://rudynan.github.io/">南浩轩的个人博客</a></li>
 </ul>
 
-
 <p> 
 
-
-
-## 来玩小游戏 
+<h3> 来玩小游戏 </h3>
 
 <ul>
+
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/2048/index.html">2048</a></li>
+
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/RetroSnaker/tanchishe.html">贪吃蛇</a></li>
+
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Super-Mario/index.html">超级玛丽</a></li>
+
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Tetris/Single/index.html">俄罗斯方块_单人版</a></li>
+
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Tetris/online/index.html">俄罗斯方块_联机版</a></li>
+
 <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Gobang/index.html">五子棋</a></li>
 
 </ul>
+
 <p> 
-
-
-
 
 <a target="_blank" href="/files/20190507_QCon2019_ChaosBlade0.5.pdf">20190507_QCon2019_云原生架构下的混沌工程实践0.5</a>
 
 
-
-
-
-
-
 {% include comments.html %}
-
-
-
 
